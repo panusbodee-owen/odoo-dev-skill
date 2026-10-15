@@ -1,5 +1,7 @@
 # odoo-dev — Claude Skill for Odoo Development (all versions)
 
+> Claude writes Odoo 16-19 modules that match your version (no leftover attrs, tree or name_get) and handles Thai needs out of the box: baht text, Buddhist year, Tax ID checksum, WHT. Star it if it saves you time.
+
 Helps developers build and maintain custom Odoo modules for versions 16–19 and future releases (20+), including Thai localization needs. Companion skill for QA & documentation: [odoo-qa-docs-skill](https://github.com/panusbodee-owen/odoo-qa-docs-skill).
 
 | Task | How |
